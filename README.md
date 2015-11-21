@@ -10,5 +10,8 @@ It is necessary to have these libraries installed in the library directory:
 - LCD_screen
 - LiquidCrystal
 - SD
-- TLC2561
+- Adafruit_Sensor_master
+- Adafruit_TSL2561_master
+
+
 
